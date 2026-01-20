@@ -1,0 +1,18 @@
+
+
+
+body{
+    
+    padding: 0px;
+}
+
+.container{
+    max-width: 100%;
+    max-width: 100%;
+}
+.login-control{
+    background-color: var(--narajo-2);
+    max-height: 100%;
+    max-width: 100%;
+}
+

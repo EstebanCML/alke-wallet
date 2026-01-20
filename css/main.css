@@ -1,0 +1,58 @@
+/* vista principal app minimo 576px */
+/* 4 responsivos min-width: 992px 1200px 1400px */
+@import url(paleta.css);
+body{
+    background-color: var(--celeste-1);
+    padding: 20px;
+}
+.container {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+
+.btn{
+    margin: 2px;
+}
+
+.a-btn {
+  margin-top: 10px;
+}
+
+.btn-new-deposit{
+  display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) { 
+
+ }
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+
+}
+
+/* // X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { 
+
+ }
+
+/* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) { 
+
+}
