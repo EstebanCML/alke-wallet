@@ -1,17 +1,17 @@
 $(function(){
     $('#deposit_1').click(function (){ 
     // Redirigir a sitio
-    window.location.href = "deposit.html";
+    window.location.href = "/html/deposit.html";
     });
 
     $('#sendmoney_1').click(function (){ 
     // Redirigir a sitio
-    window.location.href = "sendmoney.html";
+    window.location.href = "/html/sendmoney.html";
     });
 
     $('#transactions_1').click(function (){ 
     // Redirigir a sitio
-    window.location.href = "transactions.html";
+    window.location.href = "/html/transactions.html";
     });
 
     // bnt cerra sesion y borrar datos del localStore
