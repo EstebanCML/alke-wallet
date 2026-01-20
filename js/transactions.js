@@ -1,7 +1,7 @@
 $(function(){
     // Botón para volver al menú principal
     $('#return2').click(function (){ 
-        window.location.href = "../menu.html";
+        window.location.href = "/menu.html";
     });
 
     // Función para cargar y mostrar el historial de transacciones
