@@ -4,7 +4,7 @@
     
     // Si no existe la sesión, redirigir antes de que se pinte el HTML
     if (sesion !== "true") {
-        window.location.href = "login.html";
+        window.location.href = "/login.html";
     }
 })();
 

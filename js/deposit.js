@@ -2,7 +2,7 @@ $(function(){
 
     $('#return1').click(function (){ 
     // Redirigir a sitio
-    window.location.href = "../menu.html";
+    window.location.href = "/menu.html";
     });
 
     $("#depositForm").on("submit", function (evento) {

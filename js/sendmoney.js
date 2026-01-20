@@ -1,7 +1,7 @@
 $(function(){
     $('#return2').click(function (){ 
         // Redirigir a sitio
-        window.location.href = "../menu.html";
+        window.location.href = "/menu.html";
     });
 
     const presentBalance = parseFloat(localStorage.getItem('presentBalance')) || 50000;
