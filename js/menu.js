@@ -11,7 +11,7 @@ $(function(){
 
     $('#transactions_1').click(function (){ 
     // Redirigir a sitio
-    window.location.href = "/html/transactions.html";
+    window.location.href = "/html/transaction.html";
     });
 
     // bnt cerra sesion y borrar datos del localStore
